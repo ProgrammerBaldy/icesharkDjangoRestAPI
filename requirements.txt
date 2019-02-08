@@ -21,8 +21,6 @@ ipykernel
 ipython
 ipython-genutils
 ipywidgets
-isortjedi
-Jinja2
 jsonschema
 keyring
 kiwisolver
