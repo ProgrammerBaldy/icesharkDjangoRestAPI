@@ -7,8 +7,6 @@ atomicwrites
 attrs
 Automat
 Babel
-backcallbeautifulsoup4==4.6.3
-bs4==0.0.1
 Django==2.1.5
 django-csvimport==2.11
 djangorestframework==3.9.1
